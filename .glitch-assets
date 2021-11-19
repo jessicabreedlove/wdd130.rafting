@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>Site Plan</title>
+    <link type="text/css" rel="stylesheet" href="../css/courses.css">
+</head>
+
+<body>
+    <header>
+        <h1>[Dry Oar] Site Plan</h1>
+        <h2>FirstName LastName</h2>
+        <h2>WDD 130-[section]</h2>
+        <!-- In the header above, add your name and class number. For example if you are in section 3 you would put WDD 100.03 -->
+    </header>
+    <main>
+
+        <h2>Overview</h2>>
+        <hr>
+        <h3>Purpose</h3>
+        <p>[Your purpose here]</h2>
+        
+
+        <h3>Audience</h2>
+        <p>[Your audience here]</p>
+        
+
+        <h2>Branding</h2>
+        <h3>Website Logo</h3>
+        <!-- You are not required to use this logo for your site…but you must have a logo for your website.  I can offer additional logos to use, or you can create your own-->
+        <img src="" alt="Logo image">
+        <h2>
+
+ 
+
+    </main>
+
+   
+
+
+</body>
+
+
+{"name":"image.png","date":"2018-05-30T18:22:59.936Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fimage.png","type":"image/png","size":14529,"imageWidth":432,"imageHeight":84,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fimage.png","thumbnailWidth":330,"thumbnailHeight":65,"dominantColor":null,"uuid":"ZpAYsFcc0SdugPRE"}
+{"name":"wireframe-boxes-labels.jpg","date":"2018-05-30T19:56:15.064Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fwireframe-boxes-labels.jpg","type":"image/jpeg","size":192305,"imageWidth":900,"imageHeight":994,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fwireframe-boxes-labels.jpg","thumbnailWidth":299,"thumbnailHeight":330,"dominantColor":"rgb(252,251,251)","uuid":"xZqdCt7R8CkTlRs1"}
+{"name":"IMG_5684.jpg","date":"2018-12-27T03:08:49.047Z","url":"https://cdn.glitch.com/e7d21069-86b1-4294-9067-59ab154d710e%2FIMG_5684.jpg","type":"image/jpeg","size":1463853,"imageWidth":2448,"imageHeight":3264,"thumbnail":"https://cdn.glitch.com/e7d21069-86b1-4294-9067-59ab154d710e%2Fthumbnails%2FIMG_5684.jpg","thumbnailWidth":248,"thumbnailHeight":330,"dominantColor":"rgb(153,189,227)","uuid":"SPE6R7TR8czAF7pM"}
+{"uuid":"ZpAYsFcc0SdugPRE","deleted":true}
+{"name":"fan_art.jpg","date":"2021-09-16T21:36:49.452Z","url":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Ffan_art.jpg","type":"image/jpeg","size":12069,"imageWidth":250,"imageHeight":387,"thumbnail":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Ffan_art.jpg","thumbnailWidth":214,"thumbnailHeight":330,"uuid":"zlNgdVCG4KYFCaE5"}
+{"name":"wfl.PNG","date":"2021-09-24T20:28:25.123Z","url":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fwfl.PNG","type":"image/png","size":46022,"imageWidth":452,"imageHeight":446,"thumbnail":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fwfl.PNG","thumbnailWidth":330,"thumbnailHeight":326,"uuid":"YL3UZWcIoNgXtO3l"}
+{"name":"havasu.jpg","date":"2021-10-03T00:36:00.040Z","url":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fhavasu.jpg","type":"image/jpeg","size":123541,"imageWidth":500,"imageHeight":667,"thumbnail":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fhavasu.jpg","thumbnailWidth":248,"thumbnailHeight":330,"uuid":"rlO4mnBkUL2JQSnk"}
+{"name":"hermit2.jpg","date":"2021-10-03T00:36:06.312Z","url":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fhermit2.jpg","type":"image/jpeg","size":85496,"imageWidth":500,"imageHeight":375,"thumbnail":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fhermit2.jpg","thumbnailWidth":330,"thumbnailHeight":248,"uuid":"ymMTmfXhuPWVzX43"}
+{"name":"river-wide2.jpg","date":"2021-10-03T00:36:09.689Z","url":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Friver-wide2.jpg","type":"image/jpeg","size":101773,"imageWidth":940,"imageHeight":274,"thumbnail":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Friver-wide2.jpg","thumbnailWidth":330,"thumbnailHeight":97,"uuid":"XhyP4W47IoK87gRU"}
+{"name":"salmon-kayak-banner1.jpg","date":"2021-10-03T00:36:13.660Z","url":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fsalmon-kayak-banner1.jpg","type":"image/jpeg","size":101423,"imageWidth":940,"imageHeight":270,"thumbnail":"https://cdn.glitch.com/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fsalmon-kayak-banner1.jpg","thumbnailWidth":330,"thumbnailHeight":95,"uuid":"OtF428It7Q93XL3X"}
+{"name":"twitter.png","date":"2021-10-09T02:13:32.017Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Ftwitter.png","type":"image/png","size":1722,"imageWidth":64,"imageHeight":64,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Ftwitter.png","thumbnailWidth":64,"thumbnailHeight":64,"uuid":"WcoVkvvspuxud8D0"}
+{"name":"instagram.png","date":"2021-10-09T02:13:33.871Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Finstagram.png","type":"image/png","size":1614,"imageWidth":64,"imageHeight":64,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Finstagram.png","thumbnailWidth":64,"thumbnailHeight":64,"uuid":"4lmnP1gdUJ5CxpGL"}
+{"name":"facebook.png","date":"2021-10-09T02:13:36.466Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Ffacebook.png","type":"image/png","size":1285,"imageWidth":64,"imageHeight":64,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Ffacebook.png","thumbnailWidth":64,"thumbnailHeight":64,"uuid":"OVU7CkSFqREkVCb8"}
+{"name":"angga-indratama-LspBqN9gzAg-unsplash.jpg","date":"2021-10-09T02:44:26.872Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fangga-indratama-LspBqN9gzAg-unsplash.jpg","type":"image/jpeg","size":3010706,"imageWidth":5184,"imageHeight":3456,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fangga-indratama-LspBqN9gzAg-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":221,"uuid":"bxDmoJKuqpNoIoxb"}
+{"name":"jack-anstey-HtUBBdNDxpQ-unsplash.jpg","date":"2021-10-09T02:44:31.749Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fjack-anstey-HtUBBdNDxpQ-unsplash.jpg","type":"image/jpeg","size":1577757,"imageWidth":3992,"imageHeight":2706,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fjack-anstey-HtUBBdNDxpQ-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":224,"uuid":"gII7BtzTkFSZWUez"}
+{"name":"jeremy-bishop-dvACrXUExLs-unsplash.jpg","date":"2021-10-09T02:44:35.483Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fjeremy-bishop-dvACrXUExLs-unsplash.jpg","type":"image/jpeg","size":1806518,"imageWidth":5472,"imageHeight":3648,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fjeremy-bishop-dvACrXUExLs-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":220,"uuid":"tuYlOk4Zdpxr83PE"}
+{"name":"josh-wedgwood-9LQTT02LYaE-unsplash.jpg","date":"2021-10-09T02:44:42.261Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fjosh-wedgwood-9LQTT02LYaE-unsplash.jpg","type":"image/jpeg","size":3062357,"imageWidth":6000,"imageHeight":4000,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fjosh-wedgwood-9LQTT02LYaE-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":220,"uuid":"CrFrOEhcaDYK47KY"}
+{"name":"michael-niessl-x_gyAYzyeQA-unsplash.jpg","date":"2021-10-09T02:44:44.558Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fmichael-niessl-x_gyAYzyeQA-unsplash.jpg","type":"image/jpeg","size":1391307,"imageWidth":6000,"imageHeight":4000,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fmichael-niessl-x_gyAYzyeQA-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":220,"uuid":"ZhAuC6WfWu8IdkRr"}
+{"uuid":"bxDmoJKuqpNoIoxb","deleted":true}
+{"name":"rsz_angga-indratama-lspbqn9gzag-unsplash.jpg","date":"2021-10-09T02:51:13.033Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Frsz_angga-indratama-lspbqn9gzag-unsplash.jpg","type":"image/jpeg","size":65765,"imageWidth":840,"imageHeight":464,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Frsz_angga-indratama-lspbqn9gzag-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":183,"uuid":"dsi6P6iwauOogGFx"}
+{"uuid":"dsi6P6iwauOogGFx","deleted":true}
+{"uuid":"ZhAuC6WfWu8IdkRr","deleted":true}
+{"name":"rsz_1angga-indratama-lspbqn9gzag-unsplash.jpg","date":"2021-10-09T02:53:25.497Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Frsz_1angga-indratama-lspbqn9gzag-unsplash.jpg","type":"image/jpeg","size":79164,"imageWidth":800,"imageHeight":533,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Frsz_1angga-indratama-lspbqn9gzag-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":220,"uuid":"KvR7AJlw7eoPtsly"}
+{"uuid":"CrFrOEhcaDYK47KY","deleted":true}
+{"uuid":"gII7BtzTkFSZWUez","deleted":true}
+{"name":"josh-wedgwood-9LQTT02LYaE-unsplash.jpg","date":"2021-10-09T02:57:07.790Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fjosh-wedgwood-9LQTT02LYaE-unsplash.jpg","type":"image/jpeg","size":107834,"imageWidth":900,"imageHeight":600,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fjosh-wedgwood-9LQTT02LYaE-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":220,"uuid":"25M1SnMoAgWAf0qg"}
+{"name":"jack-anstey-HtUBBdNDxpQ-unsplash.jpg","date":"2021-10-09T02:57:12.246Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fjack-anstey-HtUBBdNDxpQ-unsplash.jpg","type":"image/jpeg","size":34349,"imageWidth":900,"imageHeight":610,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fjack-anstey-HtUBBdNDxpQ-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":224,"uuid":"cpr7bZESv4iCFCb8"}
+{"uuid":"KvR7AJlw7eoPtsly","deleted":true}
+{"name":"rsz_2angga-indratama-lspbqn9gzag-unsplash.jpg","date":"2021-10-09T03:00:15.965Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Frsz_2angga-indratama-lspbqn9gzag-unsplash.jpg","type":"image/jpeg","size":90203,"imageWidth":900,"imageHeight":600,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Frsz_2angga-indratama-lspbqn9gzag-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":220,"uuid":"kuF0OMJyrHPw0ebh"}
+{"name":"vince-fleming-jmwlyZDxu80-unsplash.jpg","date":"2021-11-13T01:13:02.982Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fvince-fleming-jmwlyZDxu80-unsplash.jpg","type":"image/jpeg","size":87556,"imageWidth":900,"imageHeight":600,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fvince-fleming-jmwlyZDxu80-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":220,"uuid":"8EOcBqp68x7nHvdO"}
+{"name":"loren-dosti-M8cpBt6RSns-unsplash 1.jpg","date":"2021-11-13T01:13:06.112Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Floren-dosti-M8cpBt6RSns-unsplash%201.jpg","type":"image/jpeg","size":110147,"imageWidth":900,"imageHeight":559,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Floren-dosti-M8cpBt6RSns-unsplash%201.jpg","thumbnailWidth":330,"thumbnailHeight":205,"uuid":"V3LbPi69LVGRklpL"}
+{"uuid":"V3LbPi69LVGRklpL","deleted":true}
+{"uuid":"8EOcBqp68x7nHvdO","deleted":true}
+{"name":"vince-fleming-jmwlyZDxu80-unsplash.jpg","date":"2021-11-13T01:15:13.159Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fvince-fleming-jmwlyZDxu80-unsplash.jpg","type":"image/jpeg","size":3471305,"imageWidth":5472,"imageHeight":3648,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Fvince-fleming-jmwlyZDxu80-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":220,"uuid":"0hassChB41V700df"}
+{"name":"rsz_loren-dosti-m8cpbt6rsns-unsplash.jpg","date":"2021-11-13T01:16:31.717Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Frsz_loren-dosti-m8cpbt6rsns-unsplash.jpg","type":"image/jpeg","size":435605,"imageWidth":1749,"imageHeight":1087,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Frsz_loren-dosti-m8cpbt6rsns-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":206,"uuid":"FRsL1YWAtXfxCcga"}
+{"name":"rsz_1dane-deaner-imztph1lspy-unsplash.jpg","date":"2021-11-13T01:21:20.249Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Frsz_1dane-deaner-imztph1lspy-unsplash.jpg","type":"image/jpeg","size":281257,"imageWidth":1369,"imageHeight":617,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Frsz_1dane-deaner-imztph1lspy-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":149,"uuid":"c9bySTgIAXyAKlpm"}
+{"uuid":"FRsL1YWAtXfxCcga","deleted":true}
+{"name":"rsz_1loren-dosti-m8cpbt6rsns-unsplash_1.jpg","date":"2021-11-13T01:23:11.206Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Frsz_1loren-dosti-m8cpbt6rsns-unsplash_1.jpg","type":"image/jpeg","size":285928,"imageWidth":1749,"imageHeight":641,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Frsz_1loren-dosti-m8cpbt6rsns-unsplash_1.jpg","thumbnailWidth":330,"thumbnailHeight":121,"uuid":"38AeXY3BQUrmVy2s"}
+{"name":"rsz_1mark-mcgregor-qutnazk9dpk-unsplash.jpg","date":"2021-11-13T01:27:32.307Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Frsz_1mark-mcgregor-qutnazk9dpk-unsplash.jpg","type":"image/jpeg","size":865159,"imageWidth":2016,"imageHeight":971,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fthumbnails%2Frsz_1mark-mcgregor-qutnazk9dpk-unsplash.jpg","thumbnailWidth":330,"thumbnailHeight":159,"uuid":"UGV4adyqgTQS8SOS"}
+{"name":"visa_img.png","date":"2021-11-13T01:32:03.929Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fvisa_img.png","type":"image/png","size":19586,"imageWidth":286,"imageHeight":181,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fvisa_img.png","thumbnailWidth":286,"thumbnailHeight":181,"uuid":"J9aKCKYroyAzjdmV"}
+{"name":"mastercard_img.png","date":"2021-11-13T01:32:06.866Z","url":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fmastercard_img.png","type":"image/png","size":34482,"imageWidth":286,"imageHeight":182,"thumbnail":"https://cdn.glitch.me/6aae729e-f8ae-4ef6-a18f-3d5f98b1c058%2Fmastercard_img.png","thumbnailWidth":286,"thumbnailHeight":182,"uuid":"5Cd1gKdLOSXkmCYC"}
+</html>
